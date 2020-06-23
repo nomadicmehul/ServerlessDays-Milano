@@ -18,6 +18,10 @@ It will take place on 19 October 2018 @ Fondazione Feltrinelli, Milano [Full sto
 
 * Open-Minded 
 
+<h2><a href="https://bit.ly/2Sqc4fo">Blog</a></h2>
+
+<h2><a href="https://www.youtube.com/watch?v=yaNm8NpVxSo&feature=youtu.be">Talk Video</a></h2>
+
 ### Community Channels: 
 [![Follow Auth0 at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
 
